@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Composer
+vendor/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# WordPress uploads
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
