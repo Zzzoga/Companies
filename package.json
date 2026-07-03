@@ -7,7 +7,6 @@
         "lint:js": "eslint wp-content/plugins/companies-directory/assets/js/**/*.js"
     },
     "devDependencies": {
-        "@eslint/js": "^9.0.0",
-        "eslint": "^9.0.0"
+        "eslint": "^8.57.1"
     }
 }
